@@ -1,10 +1,6 @@
 
 # Chess Game Project
 
-
-## Badges
-
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
